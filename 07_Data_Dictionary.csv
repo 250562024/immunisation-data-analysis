@@ -1,0 +1,18 @@
+Variable,Description,Type,Allowed values / format,Source,Cleaning applied
+Child_ID,Unique child identifier,Text,CHnnnn (e.g. CH0042),Collected,IDs standardised; duplicates removed
+Age_Months,Age of child in completed months,Integer,9-59 (sample ages 12-35); blank if missing/invalid,Collected,Text units stripped; 5 impossible values set to missing
+Sex,Sex of child,Text,Male / Female / Unknown,Collected,Variants mapped; blanks -> Unknown
+County,County of the health facility,Text,Kisumu / Nakuru / Machakos,Collected,Re-derived from facility; spelling standardised
+District,District (sub-county) of the health facility,Text,6 districts (see Analysis Table 4),Collected,Re-derived from facility; spelling standardised
+Health_Facility,Facility where the child was assessed,Text,12 official facility names (see Analysis Table 5),Collected,Abbreviations/case standardised
+Mother_Education,Highest education level of the mother/caregiver,Text,None / Primary / Secondary / Tertiary / Not stated,Collected,Variants mapped; blanks -> Not stated
+Residence,Household residence,Text,Urban / Rural / Unknown,Collected,Variants mapped; blanks -> Unknown
+BCG,Received BCG (at birth),Text,Yes / No / Unknown,Collected,Standardised; blanks -> Unknown
+OPV,Received oral polio vaccine,Text,Yes / No / Unknown,Collected,Standardised; blanks -> Unknown
+Penta1,Received first dose of pentavalent (DPT-HepB-Hib),Text,Yes / No / Unknown,Collected,Standardised; set to Yes where Penta3 = Yes
+Penta3,Received third dose of pentavalent,Text,Yes / No / Unknown,Collected,Standardised; blanks -> Unknown
+Measles,Received measles-containing vaccine,Text,Yes / No / Unknown,Collected,Standardised; blanks -> Unknown
+Card_Available,Vaccination card seen/available,Text,Yes / No / Unknown,Collected,Standardised; blanks -> Unknown
+Missed_Vaccination,Child missed at least one of the five vaccines,Text,Yes (any vaccine No) / No (all Yes) / Unknown,Derived (recalculated),Recomputed from the five vaccine columns for all children
+Age_Group,Age band in months,Text,12-17 / 18-23 / 24-35 / Unknown,Derived,Computed from Age_Months
+Penta_Dropout,Started but did not complete Penta series,Text,Yes (Penta1 Yes & Penta3 No) / No (both Yes) / NA,Derived,Computed from Penta1 and Penta3

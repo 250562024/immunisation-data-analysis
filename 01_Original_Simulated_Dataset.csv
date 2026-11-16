@@ -1,0 +1,509 @@
+Child_ID,Age_Months,Sex,County,District,Health_Facility,Mother_Education,Residence,BCG,OPV,Penta1,Penta3,Measles,Card_Available,Missed_Vaccination
+CH0001,32,Male,Nakuru,Molo,Molo Highlands Health Centre,Primary,,Yes,YES,1,Yes,Yes,Yes,No
+CH0002,25,Female,Kisumu,Kisumu East,lakeshore health centre,Prim,Urban,Yes,Yes,Y,yes,1,Yes,No
+CH0003,16,Male,Machakos County,Machakos Town,Kyanda Dispensary,None,Rural,Yes,Yes,Yes,Yes ,Yes,No,No
+CH0004,25,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Primary school,Urban,Yes,YES,Yes,Yes,Yes ,Yes,No
+CH0005,15,Male,Machakos County,Mwala,Mwala Rural HC,Secondary school,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0006,25,Female,Kisumu,Nyando,Riverbend Dispensary,College,Rural,Yes,Yes,Y,Y,Yes ,Yes,Yes
+CH0007,12,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,,Yes,1,Yes,Yes,Yes,Yes
+CH0008,32,Female,Nakuru,Nakuru Town,Town Square Health Centre,No education,Urban,Yes,Yes,Yes,Yes,yes,Yes,No
+CH0009,29,Male,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary,Urban,Yes,Yes,1,Yes ,Yes,Yes,NO
+CH0010,19,Male,Nakuru,Molo,Molo Highlands Health Centre,Secondary school,RURAL,Yes,Yes,Yes,Yes,No,No,Yes
+CH0011,23,Male,Kisumu,Nyando,nyando plains health centre,Primary,Rural,Yes,YES,Yes,Yes,Yes,No,N
+CH0012,26,FEMALE,Machakos,Mwala,mwala rural health centre,secondary,Rural,Yes,Y,Y,Yes,Yes,Yes,No
+CH0013,27,Male,Machakos,Mwala,Mwala Rural HC,Primary,Rural,Yes,yes,YES,Yes,Yes,YES,no
+CH0014,17,Male,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,YES,YES,No
+CH0015,30,Male,Machakos,Mwala,Hilltop Dispensary,Secondary,Rural,Yes,Yes,Yes,No,1,1,Yes
+CH0016,12,male,Machakos,Machakos Town,Station Road Health Centre,Secondary,U,Yes,Yes,Yes,Yes,Yes,No,No
+CH0017,23,Male,Machakos,Mwala,Hilltop Dispensary,Secondary,Urban,Yes,yes,Yes,Yes,Yes,1,No
+CH0018,26,Female,Machakos,Mwala,Hilltop Dispensary,primary,Rural,Yes,Yes,No,No,N,No,Yes
+CH0019,19,Female,Machakos,Machakos Town,Kyanda Dispensary,Sec.,URBAN,yes,Yes,Yes,Yes ,Yes, No,N
+CH0020,27,Female,NAKURU,Molo,Molo Highlands Health Centre,,Urban,1,Yes,Yes,Yes,Yes,Yes,No
+CH0021,27,Female,Kisumu,Nyando,Riverbend Dispensary,Primary,Rural,No,Yes,1,No,No,No,YES
+CH0022,19,Female,nakuru,Nakuru Town,Eastlands Dispensary,,Urban ,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0023,35,male,Nakuru,Molo,Pinewood Dispensary,Secondary,RURAL,Yes,Yes,Yes,Yes,Yes,No,No
+CH0024,23,Female,Kisumu,Nyando,Nyando Plains HC,Primary,Rural,Yes,Yes,Yes,No,No,Yes,Y
+CH0025,22,Female,Nakuru,Nakuru town,Town Square Health Centre,Secondary,Urban,Yes,Yes,Yes,Don't know,Yes,Yes,No
+CH0026,25,FEMALE,Machakos,Machakos Town,Station Road Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,yes,Yes,No
+CH0027,13,f,Kisumu,Nyando,Nyando Plains Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes,No,Yes,Yes
+CH0028,24,Male,KISUMU,Kisumu-East,Market Road Dispensary,University,Urban,Yes,Yes,Yes,Yes,Yes,Yes ,No
+CH0029,29,Female,Kisumu,Nyando,Nyando Plains HC,Primary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0030,14,Female,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,YES,No,No
+CH0031,32,MALE,Machakos,Machakos Town,Kyanda Dispensary,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0032,13,Female,Machakos,Machakos Town,Station Road Health Centre,Secondary school,Urban,Yes,Yes,Yes,Yes,Yes,No,no
+CH0033,18,FEMALE,Kisumu,Kisumu East,Market Rd Dispensary,None,Rural ,1,Yes,Yes,Yes,Yes,Yes,No
+CH0034,18,Female,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes ,Yes,Yes,Yes,Yes,Yes,No
+CH0035,20,Male,Nakuru,Nakuru Town,Eastlands Dispensary,Primary,Rural,Yes,Y,Yes,Yes,YES,No,No
+CH0036,30 months,Female,Machakos,Mwala,mwala rural health centre,Secondary,Rural,Yes,Yes,yes,No,No,No,Yes
+CH0037,16,Male,Machakos,Mwala,Mwala Rural Health Centre,None,Rural,Yes,Yes ,YES,Yes,Yes,Yes,Yes
+CH0038,15,m,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,YES,Yes,No
+CH0080,31,f,Nakuru,Nakuru Town,Eastlands Dispensary,Primary,Urban,1,Yes,Yes,Yes,Yes,Yes,No
+CH0039,28,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,1,1,Yes,Yes,Yes,No
+CH0040,23,Male,Nakuru,Nakuru town,Eastlands Dispensary,Primary,Urban,Yes,YES,Yes,0,Yes,Yes,
+CH0041,22,Male,Nakuru,Nakuru Town,Eastlands Disp,Primary,Urban,Yes,1,Yes,Yes,No,Yes,Yes
+CH0042,26 mths,Male,Machakos,Machakos Town,Station Road Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Y,No
+CH0043,34,Female,Kisumu,Kisumu East,MARKET ROAD DISPENSARY,Tertiary,urban,Yes,Yes,Yes,Yes,No,Yes,yes
+CH0044,12,m,Machakos,Machakos Town,Station Road HC,College,Urban,Y,Yes,Yes,Yes,Y,1,No
+CH0045,27,Male,Nakuru,Molo,Molo Highlands Health Centre,PRIMARY,Rural,Yes,Yes,Yes,Yes,YES,No,No
+CH 0046,13,Male,Kisumu,Nyando,Nyando Plains Health Centre,Primary,R,Yes,Yes,Y,Yes,Yes,Yes,No
+CH0047,18,Female,NAKURU,Nakuru town,eastlands dispensary,Tertiary,Urban,1,Yes,Yes ,Yes,Yes,No,No
+CH0048,14,Male,Nakuru County,Nakuru Town,Eastlands Dispensary,Primary,Urban,1,Yes,Yes,Yes,Yes,No,No
+CH0049,12,Male,Machakos,Machakos Town,Kyanda Dispensary,PRIMARY,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0050,34,Female,Machakos,Machakos Town,Kyanda Dispensary,Primary school,Urban,1,Yes,Yes,Yes,Yes,No,Yes
+CH0051,28,Female,Machakos,Mwala,Mwala Rural Health Centre,Primary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0052,30,Male,Machakos County,Mwala,Hilltop Dispensary,Primary,Rural,Yes,No,Yes,Yes,Yes ,No,Yes
+CH0053,26,Female,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0054,13,Male,Nakuru,Nakuru town,Eastlands Dispensary,Primary,Urban,Yes,Yes,Yes,Yes,,Yes,No
+CH0055,32,MALE,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,Yes,Yes,,No,No,Yes
+CH0056,28,Male,Machakos,Mwala,Mwala Rural Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes,Y,Yes,No
+CH0057,26,Male,Nakuru,Nakuru Town,Town Square HC,Primary,Urban,YES,Yes,Yes,Yes,Yes,No,No
+CH0058,15,Female,Nakuru,Molo,Molo Highlands Health Centre,Prim,Urban ,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0059,12,Male,Nakuru,Nakuru Town,Town Square Health Centre,Primary,Urban,1,Yes,Yes,Yes,Yes,Yes,No
+ch-0060,28,male,Kisumu,Nyando,Riverbend Dispensary,Primary,RURAL,Yes,YES,Yes ,Yes,Yes,Y,No
+CH0061,15m,Female,Machakos,Mwala,Hilltop Dispensary,Primary,Rural,Yes,yes,Yes,No,Yes,No,Yes
+CH0062,32,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,1,Yes,Yes,Yes,Y,Yes,Yes
+CH0063,33,Male,Nakuru,Molo,Pinewood Dispensary,Primary,Urban,Yes,Y,Yes,Yes,Yes,Yes,N
+CH0064,27,Male,Machakos,Mwala,Mwala Rural Health Centre,None,Rural,Yes,Yes,Yes,No,Yes,No,Yes
+CH0065,14,Female,Kisumu,Kisumu East,Market Road Dispensary,Primary school,Urban,Yes ,Yes,Yes,Yes,Yes,No,No
+ch0066,28,Male,Nakuru,Nakuru Town,Eastlands Dispensary,,Urban,Yes,Yes,Yes,Yes,Yes,No,No
+CH0067,32,Female,Machakos,Mwala,Mwala Rural Health Centre,Tertiary,rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0068,25,Female,Machakos,Machakos Town,Station Road Health Centre,Tertiary,Urban,Yes,yes,Yes,Yes,Yes, No,No
+CH0069,33,female,Machakos,Machakos Town,Station Road Health Centre,secondary,Urban,Yes,Yes,1,Yes,Yes,Yes,No
+CH0070,28,Male,MACHAKOS,Mwala,Hilltop Dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0071,20,Female,Nakuru,molo,Molo Highlands Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,,NO,No
+CH0072,19,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Rural,Yes,Yes,YES,Yes,Yes,no,No
+CH0073,17,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Primary school,Rural,Yes,Yes,Yes,Yes,Y,Yes,No
+CH0074,29,Male,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,urban,Yes,Yes,Yes,,Yes,Yes,YES
+CH0075,24,Female,Kisumu County,Kisumu East,Lakeshore Health Centre,Primary,Urban,Yes,Yes ,Yes,Yes,Yes,Yes,no
+CH0076,27,Female,Machakos,Machakos Town,Kyanda Disp.,Secondary,Urb,Yes,YES,Yes,Yes,No,1,Yes
+CH0077,16,Male,Kisumu,Kisumu East,Market Road Dispensary,Secondary,Rural,YES,Yes,Yes,Yes,Yes,Yes,No
+CH0078,18,Female,Machakos,MWALA,Hilltop Dispensary,None,Rural,Yes,Yes,Yes,no,Yes,No,Yes
+CH0079,21,Male,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,yes,No
+CH0080,31,f,Nakuru,Nakuru Town,Eastlands Dispensary,Primary,Urban,1,Yes,Yes,Yes,Yes,Yes,No
+CH0081,,Male,Kisumu,Kisumu East,Market Road Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,No,No,Yes
+CH0082,14,female,kisumu,kisumu east,Market Road Dispensary,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0083,16,Female,Nakuru,Molo,Pinewood Dispensary,Secondary,Rural,Yes,Yes,Y,Yes,Yes,Yes,No
+CH0084,18,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0085,13,Female,Kisumu,kisumu east,Market Road Dispensary,Secondary,Urban,Yes,YES,Yes,yes,No,No,Yes
+CH0086,30,MALE,Nakuru,Nakuru Town,Town Square Health Centre,,Urban,Yes,Yes,Yes,Yes,Yes,No,No
+ch-0087,28,MALE,Nakuru,Nakuru Town,Town Square Health Centre,Primary,Urban,Yes,1,Yes,Yes,Yes,yes,No
+CH0088,12,Female,Machakos,Mwala,Mwala Rural Health Centre,Primary,R,Yes,Yes, No,No,No,No,Yes
+CH0089,20,Female,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary,urban,Yes,YES,Yes,Yes,Yes,Yes,No
+CH0090,33,Female,Kisumu,Kisumu-East,Market Road Dispensary,Primary,Urban,Yes,Yes,Yes,No,Yes,Yes,N
+CH0091,18,Female,Nakuru,Molo,Pinewood Dispensary,Tertiary,,Yes,Yes,Yes,Yes,Yes,Yes,Y
+CH0092,14,Male,Nakuru,Nakuru  Town,Eastlands Dispensary,Primary school,Urban,YES,YES,Yes,Yes,Yes,Yes,No
+CH0093,18,Male,Machakos,Machakos Town,Kyanda Dispensary,Primary,Rural,Yes,Yes,Yes,1,Yes,No,No
+CH0094,14,Male,Kisumu,Nyando,Nyando Plains Health Centre,Secondary,Rural,Yes,1,Y,Yes,Yes,Yes,No
+CH0095,19,Female,Kisumu,Kisumu East,Market Road Dispensary,Tertiary,Urban,Yes,Yes,Yes,No,1,No,Yes
+CH0096,22,Male,Nakuru,Nakuru Town,Eastlands Dispensary,,Rural,Y,Yes,Yes,Yes,No,Yes ,Y
+CH0097,24,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0098,21,f,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,Yes ,Yes,Yes,Yes,Yes,No
+CH0099,24,m,Machakos,Mwala,Mwala Rural Health Centre,Primary,Rural,Yes,Yes,No,No,No,No,Yes
+CH0100,35,Male,Nakuru,Nakuru town,Eastlands Dispensary,Primary,Urban,1,Yes,Yes,Yes,Yes,Yes,No
+CH0101,12,Male,Nakuru,Molo,Pinewood Dispensary,Primary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0102,13,Male,Machakos,Machakos Town,Station Road Health Centre,,URBAN,Yes,Yes,Yes,Yes,Yes,1,No
+CH0103,,Male,Kisumu,Nyando,Nyando Plains Health Centre,Secondary,Rural,Yes,Yes,Yes,no,No,No,Yes
+CH0104,32,Female,Kisumu,Kisumu East,Market Road Dispensary,,RURAL,Yes,Yes,Yes,Yes,Yes,No,No
+CH0105,19,Male,Machakos,Mwala,Mwala Rural Health Centre,None,Rural,Yes,Yes,Yes,yes,Yes,Yes,No
+CH0106,15,Male,Nakuru,Molo,Molo Highlands Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0107,28,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Prim,Rural,Yes,Yes,Yes,Yes,Yes ,Yes,No
+CH0108,12,Male,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes,Yes,Yes ,Yes,Yes,Yes,No
+CH0109,15,Male,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Rural,Yes,Yes,1,Yes,Yes ,Yes ,No
+CH0110,20,Female,Machakos,Machakos Town,Station Road HC,SECONDARY,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0111,27,,kisumu,Kisumu East,Lakeshore Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,Yes,No,No
+CH0112,23,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,yes,Yes,Yes,Yes,1,Y,No
+CH0113,26,Male,Kisumu,Kisumu East,Market Road Dispensary,Primary,Urban,Yes,No,Yes,Yes, No,No,Yes
+CH0114,30,female,Nakuru,Molo,Molo Highlands Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,No,No
+CH0115,20,Female,Kisumu,Nyando,Riverbend Dispensary,Tertiary,U,Yes,Yes,Yes,Yes,1,Yes,No
+CH0116,33,Male,Machakos,Machakos Town,Kyanda Disp.,Primary,Rural,Yes,Yes,Yes,No,Yes,Yes,Yes
+CH0117,28,Male,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Rural,Yes,Yes,Yes,Y,Yes,Yes,No
+CH0118,27,Female,Kisumu,Nyando,Riverbend Dispensary,Secondary,Rural ,YES,Yes,YES,Yes,Yes,Y,No
+CH0119,15,Male,kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0120,13,Female,Kisumu,Nyando,Riverbend Dispensary,Secondary,Urb,Yes,Yes,Yes,yes,Yes,Yes,No
+CH0121,13,male,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urb,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0122,29,f,Nakuru,Molo,Pinewood Dispensary,Secondary,Rural,Yes,yes,Yes,yes,Yes,Yes,NO
+CH0123,20,Femlae,Nakuru,Nakuru Town,Town Square Health Centre,Primary,Urb,Yes ,,Yes,Yes,Yes,Yes,No
+CH0124,25,Male,Nakuru,Molo,Pinewood Dispensary,Primary,R,YES,Yes,Yes,Yes,Yes,no,No
+CH0125,27,Female,Nakuru,MOLO,Pinewood Dispensary,Tertiary,Rural,Yes,No,Yes,Yes,Yes,Yes,Yes
+CH0126,29,Male,Nakuru,MOLO,Molo Highlands Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes,YES,Yes,No
+CH0127,14,Male,Kisumu,Kisumu East,Market Road Dispensary,primary,Urban,Yes,Yes,Yes,No,No,No,yes
+CH0128,180,Male,Kisumu,Nyando,Riverbend Disp.,Secondary,Rural,Yes,Yes,Yes ,Yes,Yes,Yes,No
+CH0129,13,Male,Kisumu,Kisumu East,Lakeshore Health Centre,None,Urban,Yes,No,Yes,Yes,yes,No,Yes
+CH0130,34,Female,kisumu,Nyando,Riverbend Dispensary,Secondary,Rural,Yes,yes,Y,Yes,Yes,Yes,No
+CH0131,30,Female,machakos,Machakos Town,Station Road Health Centre,PRIMARY,Urban,Yes,Yes,No,No,No,No,
+CH0132,12,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Primary school,Rural,Yes,YES,Yes,Yes,Yes,Yes,No
+CH0133,24,Male,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,Yes,Yes,No,Y,yes,Yes
+CH0134,15,Female,Kisumu,Kisumu East,Market Road Dispensary,Primary,Urban,Yes,Yes,Yes,No,No,No,Yes
+CH0135,27,Female,Machakos,Mwala,Mwala Rural Health Centre,None,Rural,No,YES,No,No,No,No,Yes
+CH0136,19,Male,Kisumu,kisumu east,Market Rd Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,Y,Yes,No
+CH0137,23,male,Kisumu,nyando ,Nyando Plains Health Centre,Primary,Rural,Yes,Yes ,Yes,Don't know,Yes,1,No
+CH0138,32,,Kisumu,Kisumu East,Market Road Dispensary,Tertiary,Urban,Yes ,Yes,YES,Yes,Yes,Yes,No
+CH0139,20,Female,Machakos,mwala,Hilltop Dispensary,Secondary,Rural,Yes,Yes,Yes ,YES,Yes,No,No
+CH0140,32,Male,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,Yes,Yes,Yes,,Yes,Yes,No
+CH0141,23,Female,Kisumu,Nyando,Riverbend Dispensary,None,Rural,Yes,Yes,Yes,yes,No,Yes,Yes
+CH0142,13,Female,Machakos,Machakos Town,Station Road Health Centre,Tertiary,Urban,yes,Yes,Yes,Yes,No,No,Yes
+CH0143,18,Female,Kisumu,nyando ,Nyando Plains Health Centre,Primary,Rural ,Yes,Yes ,Yes,Yes,Yes,Yes,No
+CH0144,17,Female,Machakos,Machakos Town,Kyanda Dispensary,Primary,Rural,Yes,1,Yes ,Yes,Yes,No,No
+CH0145,27,Male,Kisumu,Nyando,Nyando Plains Health Centre,PRIMARY,Rural,Yes,yes,Yes,Yes,Yes,Yes,No
+CH0146,15,Male,Machakos,MWALA,Hilltop Dispensary,secondary,Rural,Yes,,Yes,Yes,Yes,yes,No
+CH0147,13,,Nakuru ,MOLO,Molo Highlands Health Centre,Secondary,Rural,Yes,YES,Yes,YES,yes,No,No
+CH0148,26,Male,Kisumu County,Nyando,Riverbend Dispensary,Primary,Rural,Y,Yes,Yes,Yes,Yes,Yes,No
+CH0149,29,Male,Machakos,Mwala,Mwala Rural Health Centre,Primary,Rural,No,N,Y,Yes,Yes,no,No
+CH0150,33,Male,Nakuru ,Molo,Pinewood Dispensary,None,Rural,NO,Yes,Yes,Yes,1,Yes,Yes
+CH0151,27,MALE,Nakuru,Molo,molo highlands health centre,Primary,Rural,Yes,Yes,Yes ,Yes,Yes,Y,No
+CH0152,32,Male,Nakuru,Molo,Molo Highlands Health Centre,Prim,Rural,yes,No,Yes,Yes,Yes,YES,Yes
+CH0153,19,Female,Nakuru,Molo,Molo Highlands Health Centre,no formal education,Urban,Yes,No,Yes,Yes,Yes,No,Yes
+CH0154,35,Female,Machakos,Mwala,Hilltop Dispensary,Primary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0155,22,Male,Nakuru,Nakuru  Town,Eastlands Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,No,No
+CH0156,28,FEMALE,Nakuru,Nakuru town,Eastlands Dispensary,College,U,Yes,YES,1,Yes,Yes,Yes,No
+CH0157,24,Female,Kisumu,Kisumu East,Market Road Dispensary,Tertiary,Urb,yes,Yes ,Yes,Yes,Yes,Yes,No
+CH0158,20,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,No,N,Yes,Yes,Yes,Yes
+CH0159,22,Female,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,yes,Yes,Yes,Yes,Yes,Yes,No
+CH0160,15,Female,Machakos,Mwala,Hilltop Dispensary,None,Rural,Yes,Yes,Yes,Yes,YES,Y,Yes
+CH0161,24,Male,Machakos,Machakos Town,Kyanda Dispensary,,Rural,Yes,YES,Y,Yes,Yes,Yes,No
+CH0162,19,Female,Nakuru,MOLO,Pinewood Disp.,Primary,Rural,Yes,Yes,No,No,NO,No,Yes
+CH0163,17,M,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary,Urban,Yes,Yes,1,Yes,Yes,Yes,No
+CH0164,28,Female,Nakuru,Molo,Molo Highlands Health Centre,PRIMARY,Rural,Yes,Yes,Yes,Yes,No,Yes,Yes
+CH0165,20,MALE,Kisumu,Kisumu East,Market Road Dispensary,Primary,Urban,Yes,Yes,Yes,Yes,No,Yes,Yes
+CH0166,28,Female,Machakos,Machakos Town,Kyanda Dispensary,Primary,Rural,Yes,Yes ,Yes,Yes,Yes,No,No
+CH0167,19,Female,Kisumu,Nyando,Riverbend Dispensary,Secondary,Rural ,Yes,No,Yes,No,no,No,yes
+CH0168,18,Male,nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,Yes,Yes,Y,Yes,Yes,No,No
+CH0169,34,Male,Nakuru,Molo,Molo Highlands Health Centre,Primary school,Rural,YES,Yes,Yes,Yes,Yes,Yes,No
+CH0170,27,Female,Kisumu,Kisumu East,Market Road Dispensary,Tertiary,Urban,Yes ,Yes,Y,Yes,Yes,Yes ,No
+CH0171,34,FEMALE,Machakos,Mwala,Hilltop Dispensary,secondary,Rural,Yes,yes,Yes,Yes,no,Yes,yes
+CH0172,19,Male,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,,Yes,Yes,Yes ,Yes,Y, No,no
+CH0173,25,Female,Nakuru,Molo,Molo Highlands Health Centre,Primary,Urban,1,Yes,Y,Yes,Yes ,Yes,No
+CH0174,23,Female,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,Yes,YES,Yes,Yes,Yes,Yes,No
+CH0175,28,Female,Kisumu,NYANDO,Nyando Plains Health Centre,Prim,Rural,Yes,Yes,Yes,Yes,Yes,No,No
+CH0176,28,Female,Nakuru,Molo,Pinewood Disp.,Primary,Rural,Yes,Yes,Yes,Yes,Yes,No,No
+CH0177,18,Male,Kisumu,Nyando,Riverbend Dispensary,Secondary,rural,Yes,Yes,Yes,Yes,1,No,No
+CH0178,29,Male,Kisumu County,Kisumu East,Lakeshore Health Centre ,Tertiary,U,Yes,yes,Yes,Yes,Yes,Yes,No
+CH0179,17,f,KISUMU,Nyando,Riverbend Dispensary,Primary,Rural,No,Yes,Yes,Yes,Yes,No,Y
+CH0180,14,Male,Machakos,Mwala,Mwala Rural Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes,Yes,No,No
+CH0181,22,Male,Kisumu,kisumu east,Lakeshore Health Centre,Secondary,Urban,Yes,Y,Yes,Yes,Yes,1,No
+CH0182,27,Male,Kisumu,Kisumu East,Market Road Dispensary,Primary,Urban,Yes,Yes,Yes,Yes,Y,No,No
+CH0119,15,Male,kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0183,24,Female,Kisumu,Kisumu-East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0184,35,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,No,Yes,Yes,Yes,Yes,No,Yes
+CH0185,12,Male,MACHAKOS,Machakos Town,Station Road Health Centre,Primary,Urban,Yes ,Yes,Yes,Yes,Yes,Yes,N
+CH0186,19,FEMALE,Nakuru,Nakuru Town,Town Square Health Centre,None,,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0187,22,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Rural,Yes,Yes ,YES,Yes,,Yes,No
+CH0188,22,female,Kisumu,Kisumu East,Market Road Dispensary,Tertiary,URBAN,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0189,25,Male,Nakuru,Molo,Molo Highlands Health Centre,secondary,Rural,Yes,YES,yes,Yes,Yes,Yes,No
+CH0190,21,Female,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Rural,Yes,No,YES,Yes,1,No,Yes
+CH0191,12,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Rural,Yes,Y,Yes,Yes,No,Yes,Yes
+CH0192,14,Female,Nakuru,Molo,Molo Highlands Health Centre,None,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0193,15,Femlae,Kisumu,Kisumu East,Lakeshore Health Centre,Primary,urban,Yes,Yes,Yes,Yes,Yes,Yes ,No
+CH0194,32,,Nakuru,Molo,Molo Highlands Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,NO,No
+CH0195,31,Female,Machakos,Mwala,Mwala Rural Health Centre,None,Rural,Yes,Yes,Yes,Yes,Yes,NO,No
+CH0196,31,Male,Kisumu ,Kisumu East,Market Road Dispensary,Primary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0264,18,Male,machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,Yes,YES,Yes,Y,Yes,No
+CH0197,33,Female,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes ,YES,1,Yes,Yes,Yes,No
+CH0198,27,Male,Kisumu,Nyando,Riverbend Dispensary,Primary,Rural,No,Yes,No,No,No,No,YES
+CH0199,13,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,U,yes,Yes,Yes,Yes,Yes,Yes,Yes
+CH0200,21,Male,Kisumu,Nyando,nyando plains health centre,Primary,Rural ,Yes,Yes,Yes,Yes,Yes,No,No
+CH0201,30,Male,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes,Yes,YES,Yes,Yes,Yes,No
+CH0202,19,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urb,Yes,No,Yes,Yes,Yes,no,Yes
+CH0203,28,Female,Nakuru,Nakuru Town,Town Square Health Centre,tertiary,U,Yes,Yes,Yes,Yes,Yes,Yes,
+CH0204,14,Female,Nakuru,Nakuru Town,Eastlands Disp,Primary,Rural,Yes,Yes,Yes,Yes, No,,Yes
+CH0205,13,Male,Kisumu,Nyando,Riverbend Dispensary,tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0206,26,Male,Kisumu,Kisumu East,Market Road Dispensary,Primary,URBAN,No,Yes,Yes,Yes,1,No,Yes
+CH0207,27,Male,Kisumu,Nyando,Nyando Plains Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes,yes,Yes,No
+CH0208,28,Female,Machakos,Mwala,Mwala Rural Health Centre,Tertiary,Rural,Yes,Yes,Yes,Yes,yes,Yes,No
+CH0209,27,Female,Machakos,Mwala,Hilltop Dispensary,Primary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0210,16,FEMALE,Machakos,Machakos Town,Station Road Health Centre,Tertiary,Urban,Yes,Yes,No,Yes,Yes,,No
+CH0211,15,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,No,No
+CH0212,27,Male,NAKURU,Nakuru Town,Eastlands Dispensary,Secondary,Urban,Yes,Yes,Yes,N, No,1,Yes
+CH0213,32,Female,Nakuru,Molo,Pinewood Disp.,Primary,Rural ,Yes,Yes,No,No,Yes,Y,Yes
+CH0214,,Male,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,1,Yes,Yes,Yes,No,No,Yes
+CH0215,18,Female,Nakuru,Molo,Pinewood Dispensary,Primary,Rural,1,No,Yes,Yes,Yes,No,Yes
+CH0216,34,Male,Machakos,Machakos Town,Station Rd Health Centre,Primary,,Yes,Yes,Yes,Yes,1,Yes,No
+CH0217,12,Male,Nakuru,Kisumu East,Lakeshore Health Centre,Secondary,Urban,yes,Yes,Yes,Yes,,No,no
+CH0218,22,Male,Nakuru,Nakuru Town,Town Square HC,Sec.,Urban,Yes,Yes,Yes,Yes,Yes,,No
+CH0219,27,Female,Machakos,Machakos Town,Station Road Health Centre,Primary,Rural,Yes,YES,Yes,No,Yes,Yes,Yes
+CH0220,29,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Sec.,Urb,yes,Yes,Yes,Yes,Yes,Yes,No
+CH0221,23,Female,Kisumu,kisumu east,Market Road Dispensary,Sec.,Urban ,YES,Yes,Yes,Yes,Yes,Yes,No
+CH0222,17,male,Machakos,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,1,YES,Yes,Yes,Yes ,No
+CH0223,17,Male,Machakos,Machakos Town,Kyanda Dispensary,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,No,No
+CH0224,25,Male,Machakos,MACHAKOS TOWN,Kyanda Dispensary,Primary,Urban,Yes,1,Yes,yes,Yes,Yes,No
+CH0225,20,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,yes,Yes,Yes,Yes,No
+CH0226,18,Female,Nakuru,Nakuru Town,TOWN SQUARE HEALTH CENTRE,Tertiary,Urban,Y,Don't know,Yes,Yes,Yes,Yes,No
+CH0227,34,Female,Nakuru,Nakuru Town,Town Square HC,tertiary,Urban,Yes,Yes,No,Yes,Yes,Yes,No
+CH0228,19,Female,Kisumu,Nyando,Riverbend Dispensary,Primary,U,Yes,1,Yes,No,No,Yes,Yes
+CH0229,20,Male,Nakuru,Nakuru Town,Town Square Health Centre,Primary school,,Yes,Y,Yes,Yes,Yes,Yes,No
+CH0230,31,Male,Nakuru,Molo,Pinewood Dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,Yes ,Yes,NO
+CH0231,26,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary school,Urban, No,Y,Yes,Yes,Yes,Yes,Yes
+CH0232,30,Male,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,Yes ,Yes,Yes,Yes,yes,Yes,No
+CH 0233,12 months,Female,Machakos,Mwala,Mwala Rural Health Centre,secondary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0234,30,Female,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Rural,Yes ,Yes,Yes,Yes ,Yes,1,No
+CH0235,31 months,Female,Machakos,Mwala,Hilltop Dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,No,Yes,Yes
+CH0236,28,Male,Machakos,MWALA,mwala rural health centre,Primary,Rural,Yes,Yes,Yes,No,Yes,Yes,Yes
+CH0237,25,MALE,Kisumu,Nyando,Riverbend Dispensary,Prim,Rural,Yes,Yes,Yes,1,Yes,Yes,No
+CH0238,35,Male,Kisumu,Nyando,Nyando Plains Health Centre,Prim,Urb,Yes,Yes,yes,Yes,Yes,Y,No
+CH0239,28,Male,Kisumu,NYANDO,Nyando Plains Health Centre,Primary,Rural,Yes,1,Yes,Yes,Yes,No,No
+CH0240,12,Male,Machakos,Machakos Town,Kyanda Dispensary,Primary school,Rural,Yes,Yes,No,0,Yes,no,Yes
+ch-0241,26,Female,Machakos,Molo,Pinewood Dispensary,Secondary,URBAN,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0242,20,Male,Nakuru,Nakuru Town,TOWN SQUARE HEALTH CENTRE,Secondary,Urban,Yes,Yes,Y,Yes,Yes,No,No
+CH0243,19,Male,Kisumu,Nyando,Nyando Plains Health Centre,Primary school,Rural,No,Yes,Yes,Yes,Don't know,Yes,Yes
+CH0244,15,Female,Kisumu,Kisumu East,Market Road Dispensary,Primary,Rural,Yes,Yes,Yes,Yes,No,No,
+CH0245,22,Female,Nakuru,Nyando,Nyando Plains Health Centre,Primary,Rural,1,No,Yes,Yes,Yes,Yes,Yes
+CH0246,26,Female,Kisumu,Kisumu East,Market Road Dispensary,None,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0247,28,Male,Machakos,Mwala,Mwala Rural Health Centre,Secondary,Rural,Yes,Yes,yes,No,Yes,,Yes
+CH0248,24,Female,Kisumu,Nyando,Nyando Plains Health Centre,Primary school,rural,yes,Yes,YES,Yes,No,No,YES
+CH0249,31,Female,Nakuru,MOLO,Pinewood Dispensary,None,Rural,Yes,Yes,YES,No,Yes,No,yes
+CH0250,16,female,Nakuru,Molo,Molo Highlands Health Centre,Primary school,Rural,No,Yes,Yes,Yes,Yes,Yes,Yes
+CH0251,12,Female,Machakos,Mwala,Hilltop Dispensary,Primary,Rural,Yes ,Yes,Yes,Yes,Yes,0,No
+CH0252,25,Male,Kisumu,nyando ,Nyando Plains Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes ,Yes,No
+CH0253,24,Female,Machakos,Mwala,Hilltop Dispensary,Prim,R,Yes,No,Yes,Yes,No,No,Yes
+CH0254,21,Female,machakos,Machakos Town,Kyanda Dispensary,None,rural,yes,Yes,Yes,no,No,No,NO
+CH0255,26,Male,Nakuru,Molo,Molo Highlands Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Y,No
+CH0256,14,Male,Machakos,Machakos town,Station Road Health Centre,Secondary,Urban,Yes,1,Yes,yes,Yes,Y,No
+CH0421,24,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,No,no,Yes
+CH0257,29,Female,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,Yes,Yes,No,Yes ,,Yes
+CH0258,25,Male,Machakos,Machakos Town,Kyanda Disp.,Primary,Rural ,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0259,12,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Tertiary,Urban,Yes,yes,Yes,YES,Y,Yes,No
+CH0260,15,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,Yes,Yes,1,Yes,No,No
+CH0261,33,Male,Machakos,Mwala,Hilltop Dispensary,Secondary school,Rural,Yes,Yes,Yes,No,NO,No,Yes
+CH0262,18,Male,Machakos,Mwala,Hilltop Dispensary,Tertiary,U,Yes,Yes,YES,Yes,Yes,Yes,No
+CH0263,29,Male,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Urban ,Yes,Yes ,yes,Yes,No,No,Yes
+CH0264,18,Male,machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,Yes,YES,Yes,Y,Yes,No
+CH0265,27,Male,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,Yes,Yes,Yes ,Yes,Yes,No
+CH0163,17,M,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary,Urban,Yes,Yes,1,Yes,Yes,Yes,No
+CH0266,19,Male,Nakuru,Nakuru  Town,Town Square Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0267,15,Male,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,yes,Yes,Yes,Yes,No,Yes,Yes
+CH0268,28,Female,Machakos County,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes,Yes,Yes, No,No,No,Y
+CH0269,28,Male,Nakuru,Nakuru Town,Town Square Health Centre,University,Urban,YES,Yes,N, No,Yes,Yes,Yes
+CH0270,24,Male,Machakos,Machakos town,Station Road Health Centre,Secondary,Urban,YES,Yes,Yes,Yes,Yes ,Yes,No
+CH0271,,Male,Kisumu,Nyando,Nyando Plains Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes,Yes,No,No
+CH0272,15,Female,Kisumu,Kisumu East,Market Road Dispensary,Secondary school,Rural,Yes,Yes,Yes,,No,No,Yes
+CH0273,30,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,yes,Yes,Yes,Yes,No
+CH0274,17,M,Kisumu,Nyando,riverbend dispensary ,Prim,Rural,Yes,Yes,Yes,No,No,Yes,Yes
+CH0275,17,FEMALE,Kisumu,Kisumu East,Lakeshore Health Centre ,Secondary,Urban,Yes,Yes,Yes,Yes,1,No,No
+CH0276,0,Male,Kisumu,Nyando,Riverbend Dispensary,Tertiary,Urban,Yes,Yes,Yes,No,No,1,YES
+CH0277,23,Male,Kisumu,Machakos Town,Station Road Health Centre,SECONDARY,Urban,Yes,Yes ,Yes,Yes,Y,Yes,No
+CH0278,21,MALE,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Rural,Yes,Yes,Yes,0,No,No,Yes
+CH0279,26,Male,Nakuru,MOLO,Molo Highlands Health Centre,Primary,Rural,Yes,yes,Yes,Yes,Yes,Yes,No
+CH0280,19,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,1,Yes,Yes ,Yes,No
+CH0281,,m,Machakos,Machakos town,Station Road Health Centre,SECONDARY,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0282,21,Male,Nakuru,Nakuru Town,Town Square Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,Yes,Yes ,No
+CH0283,27,f,Nakuru,Nakuru Town,eastlands dispensary,Primary,Rural,No,No,Yes,Yes,No,No,Yes
+CH0284,14,Male,Nakuru,Nakuru  Town,Town Square Health Centre,Sec.,Urban,Yes,Yes,Yes,Yes,YES,Yes,No
+CH0285,28,Male,Kisumu,Nyando,Nyando Plains Health Centre,No education,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0286,22,Male,kisumu,Nyando,Riverbend Dispensary,Primary,Rural,Yes,Yes,Yes,No,No,No,Yes
+CH0287,25,Female,Nakuru,Nakuru Town,Eastlands Disp,PRIMARY,Rural,Yes,Y,Yes,No,No, No,Yes
+CH0288,24,f,Kisumu,Kisumu East,lakeshore health centre,SECONDARY,Urban,Yes,Yes,Yes,Yes,Yes ,Yes,No
+CH0289,21,M,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,No,No,Yes
+CH0290,24,Male,Machakos,Mwala,Hilltop Dispensary,Secondary,Rural,Yes,No,Yes,No,No,No,Yes
+CH0291,13,Male,Nakuru,Molo,Pinewood Dispensary,Primary,Rural,Yes,Yes,Yes,YES,Yes,No,No
+CH0292,12,MALE,Kisumu,Kisumu East,Lakeshore Health Centre,Tertiary,urban,Yes,Yes,Yes,Yes,yes,Yes ,no
+CH0293,18,Male,Kisumu,Nyando,Riverbend Dispensary,Secondary,Rural ,Yes,Yes,Yes,Yes,Yes,No,No
+CH0294,35,Female,Kisumu,kisumu east,Lakeshore Health Centre,Tertiary,Rural,Yes,Yes,Yes,Yes,Yes,yes,NO
+CH0295,22,Female,Nakuru,Molo,Molo Highlands HC,None,Rural,No,Yes,YES,Yes,Yes,Yes,Yes
+CH0296,34,f,Kisumu,Kisumu East,Market Road Dispensary,Secondary,Urban,Yes,Yes,Yes,yes,Yes,No,No
+CH0297,35,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,YES,Yes,Yes,1,Yes,Yes,N
+CH0298,24,Female,Nakuru,Molo,Pinewood Dispensary,Secondary,R,Yes,no,Yes,Yes,Y,No,Yes
+CH0299,14,Female,Kisumu,Nyando,Riverbend Dispensary,Secondary,Rural,Yes,Yes,Yes,No,Yes,Yes,Yes
+CH0300,32,FEMALE,Kisumu,Kisumu East,Lakeshore Health Centre ,Secondary,Rural,Yes,Yes ,Yes,Y,Yes,Yes,No
+CH0301,31,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,Yes,YES,1,Yes,Yes,No
+CH0302,34,Female,Nakuru,Molo,Molo Highlands Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,,Yes,
+CH0303,20,F,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Rural,Yes,1,Yes,Yes,Yes,Yes,No
+CH0304,28,Female,Nakuru,Molo,Molo Highlands Health Centre,None,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0305,17,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Tertiary,Urban,Yes,Yes,Yes,NO,Yes,Yes,Yes
+CH0306,33,Female,Nakuru,Molo,PINEWOOD DISPENSARY,Tertiary ,Urb,Yes,Yes,1,Yes,No,Yes,Yes
+CH0307,34,m,Machakos,Machakos Town,Kyanda Dispensary,Primary,Rural,1,1,1,Yes,Yes,Yes,N
+CH0308,32,Male,Kisumu,NYANDO,Nyando Plains Health Centre,Tertiary,Rural,Yes,Yes,Yes,YES,1,Yes,No
+CH0309,19,Male,Machakos,Mwala,mwala rural health centre,none,Rural,1,Yes,Yes,Yes,Yes,yes,No
+CH0310,34,Male,Machakos,Mwala,Hilltop Dispensary,Secondary,Rural,Yes,No,yes,Yes,Yes,No,Yes
+CH0311,35,Female,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,YES,YES,Yes,Yes,Yes,Yes,No
+CH0312,15,Female,Kisumu,Nyando,Nyando Plains HC,Secondary school,Urban,Yes,Yes,Yes,Yes,Yes,yes,No
+CH0313,22,male,Kisumu ,Kisumu East,Lakeshore Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes ,Yes,Yes,No
+CH0314,20m,Female,Kisumu,Nyando,Riverbend Dispensary,,Rural,Yes,Yes,Yes,No,no,Yes,Yes
+CH0315,17,Female,Machakos,Machakos Town,Station Road Health Centre,Secondary school,Urban,YES,Yes,Y,Yes,Yes,Yes,no
+CH0316,20,Male,Kisumu,Nyando,nyando plains health centre,secondary,Rural,Yes,Yes,Yes,Yes,yes,N,No
+CH0317,19,m,Nakuru,Molo,Molo Highlands Health Centre,primary,Rural ,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0318,31,Male,Kisumu,Kisumu East,Market Rd Dispensary,None,Urb,1,Yes,N,No,Yes,Yes,Yes
+CH0319,32,Female,Machakos,Machakos Town,Station Road Health Centre,None,Rural,Yes,Yes ,Yes,Yes,No,No,YES
+CH0320,35,Male,Kisumu,Kisumu East,Market Road Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0321,14,Male,Machakos,Machakos Town,Station Road Health Centre,Secondary,Rural,Yes,Don't know,Yes,Yes,Y,1,N
+CH0322,30,Female,Machakos,MACHAKOS TOWN,Station Road Health Centre,Primary,Urban,1,Y,Yes,Yes,Yes,No,No
+CH0323,20,Male,Nakuru,Nakuru Town,Eastlands Dispensary,Primary,Rural,Yes,Yes,Yes,Yes,Yes,Y,No
+ch0324,25,Female,Nakuru,Molo,Molo Highlands Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0325,24,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Rural,Yes,Yes,YES,Yes,Yes,Yes,yes
+CH0326,24,Male,Nakuru,Molo,Pinewood Dispensary,None,Rural,Yes,1,Yes ,Yes,Yes,Yes,No
+CH0327,23,Male,Nakuru,Nakuru Town,Town Square Health Centre,Sec.,Urban,YES,Y,Yes,Yes,Yes,Yes,no
+CH0328,35,Female,Machakos,Mwala,Mwala Rural Health Centre,None,Rural,Yes,Yes,yes,No,Yes,No,Yes
+CH0329,19,Female,Kisumu,NYANDO,Nyando Plains HC,Primary,Rural,Yes,YES,Yes,No,No,Yes,Yes
+CH0330,34,Female,Machakos,Mwala,Mwala Rural Health Centre,Primary,Rural,YES,Yes,No,No,no,No,Yes
+CH0331,22,FEMALE,Machakos,Machakos Town,kyanda dispensary,Secondary,RURAL,Yes,Yes,Yes, No,Yes,0,yes
+CH0332,16,FEMALE,nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+ch-0143,18,Female,Kisumu,nyando ,Nyando Plains Health Centre,Primary,Rural ,Yes,Yes ,Yes,Yes,Yes,Yes,No
+CH0333,22,Female,Machakos,Mwala,Mwala Rural Health Centre,Primary school,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0334,24,F,Kisumu,Nyando,Riverbend Dispensary,None,Rural,Yes,Yes,Yes,No,no,Yes,No
+CH0335,18,Female,Kisumu,Kisumu East,Market Road Dispensary,tertiary,urban,Yes,1,No,No,Yes,No,Yes
+CH0336,23,f,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,RURAL,1,Y,Yes,Yes,Yes,Yes,No
+CH0337,24,Male,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,yes,1,YES,Yes,No,Yes,Yes
+CH0338,31,Male,Nakuru,Molo,Pinewood Dispensary,Secondary,Urban,Yes,Yes ,1,Yes,Yes,Yes,No
+CH0339,13,Female,Machakos County,Mwala,Hilltop Dispensary,Primary school,Rural ,YES,Yes,Yes,Yes,YES,Yes,No
+CH0340,30,Female,Kisumu,Kisumu-East,Market Road Dispensary,Tertiary,R,Yes,Yes,Yes,yes,Yes,1,No
+CH0341,34,Female,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,Yes,Yes,Yes,1,Yes,Yes,No
+CH0342,28,female,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes,1,Yes,Yes,DK,Yes,No
+CH0343,31,Female,Kisumu,Kisumu East,Market Road Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes ,Yes,Yes,No
+CH0344,12,Male,Machakos,Mwala,Hilltop Disp.,Secondary school,Rural,Yes,,Yes ,yes,Yes,Yes,No
+CH0345,23,Male,Nakuru,Nakuru  Town,Town Square Health Centre,Primary,Urban,Yes,Yes,Y,Yes,Yes,Yes,No
+CH0346,34,Male,Kisumu,Nyando,Nyando Plains Health Centre,SECONDARY,Rural,Yes,Yes,Yes,YES,Yes ,Yes,No
+CH0347,23,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,1,Yes,Yes,Yes,Yes,Yes,No
+CH0348,14,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,,Yes,Yes,Yes,Yes,Yes,No
+CH0349,17,F,Machakos,Machakos Town,Station Road Health Centre,,Urban,YES,Yes,Yes,Yes,Yes,Yes,No
+CH0350,19,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,1,Yes,Yes,Yes,Yes,Y,No
+CH0351,15,Male,KISUMU,kisumu east,Lakeshore Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,YES,Yes,No
+CH0352,15,Male,Nakuru,Nakuru Town,Eastlands Dispensary,College,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0353,28,Female,Machakos,Mwala,Mwala Rural HC,Primary,Urban,Yes,yes,Yes,No,,N,Yes
+CH0354,99,Male,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,No,Yes,Yes,Yes,,Yes
+CH0355,28,Female,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Rural,Yes,Yes,Yes,yes,No,No,Yes
+CH0356,12,Male,Kisumu,Nyando,Riverbend Dispensary,SECONDARY,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0357,18,Male,machakos,Machakos Town,Kyanda Dispensary,None,Rural,Yes,Yes,Yes,Yes,No,No,Yes
+CH0358,12,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Primary,Urban,Yes,Yes,No,no,No,yes,Yes
+CH0359,30,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,YES,No
+CH0360,17,Female,Nakuru,Nakuru Town,TOWN SQUARE HEALTH CENTRE,Secondary,Urban,1,Yes,,Yes,Yes,Yes,NO
+CH0361,23,Female,Machakos,Mwala,Mwala Rural Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes,No,,No
+CH0362,16,Female,Nakuru,Molo,Pinewood Dispensary,Primary,Rural,Yes,YES,Yes,Yes,Yes,Yes,No
+CH0363,19,Female,Nakuru,Molo,Molo Highlands Health Centre,,Rural,Yes,Yes,no,Yes,Yes,Yes ,No
+CH0364,25,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Primary,Urban,1,Yes,Yes,Yes,Yes,Yes,No
+CH0365,29,Female,NAKURU,Nakuru Town,Town Square Health Centre,Primary,Urban,Yes,Yes ,Yes,Yes ,Yes,Yes,
+CH0366,28,Female,Nakuru,Nakuru Town,Town Square Health Centre,Primary,Rural,Y,Yes,Yes,Yes,Yes,Yes,No
+CH0367,14,Male,Kisumu,Nyando,nyando plains health centre,Tertiary,Rural,Yes,Yes,Yes,Yes ,Yes,Yes,NO
+ch0368,21,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary school,Urban,Yes,Yes,Yes,YES,Yes,Yes,No
+CH0369,28,FEMALE,Nakuru,Nakuru Town,Town Square Health Centre,Primary,Rural,No,Yes,Yes,Yes,Yes,Yes,yes
+CH0370,15,Female,Kisumu,Nyando,Riverbend Dispensary,Tertiary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0371,34,Female,Machakos,Mwala,HILLTOP DISPENSARY,Primary,Rural,Yes,Yes,Yes,No,No,Yes,Yes
+CH0372,28,Female,Machakos,Machakos Town,Kyanda Dispensary,Primary,Rural,Yes,Yes,,Yes,Yes,No,NO
+CH0373,34,Female,Nakuru,Nakuru Town,Town Square Health Centre,Primary,Urban,Yes,Y,Yes,Yes,Yes,No,NO
+CH0374,29,Male,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0375,27,Male,Kisumu,Nyando,Riverbend Dispensary,Primary,Rural,Y,Yes,Yes,Yes,1,Yes,No
+CH0376,25,Female,Machakos,Machakos Town,Kyanda Dispensary,Tertiary,Urban,Yes,Yes,Yes,Yes,Unknown,Yes,No
+CH0377,24 mths,MALE,Kisumu,Nyando,Riverbend Dispensary,PRIMARY,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0378,32,Female,Nakuru,Molo,Molo Highlands Health Centre,PRIMARY,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0379,25,Female,Nakuru,Molo,Pinewood Dispensary,Primary,Rural,Yes,Yes,Yes,Yes,Yes,No,No
+CH0380,21,Female,Kisumu,NYANDO,Nyando Plains Health Centre,Secondary,Rural,Yes,Y,yes,Yes,YES,Yes,No
+CH0381,34,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0382,29,Female,Nakuru,Nakuru Town,Town Square Health Centre,Primary,urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0383,21,Female,Kisumu County,Kisumu East,Lakeshore Health Centre,Primary,Urban,Yes,1,Yes,yes,Yes ,No,No
+CH0384,28,Female,Kisumu,Kisumu East,Market Road Dispensary,Secondary,Urban,Yes ,Yes,Yes,No,No,No,Yes
+CH0385,17,female,Machakos,Mwala,Hilltop Dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,Yes,No,No
+CH0386,29,Male,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,Yes,Yes,No,No,Yes,Yes
+CH0387,26,Male,Machakos,Mwala,Mwala Rural Health Centre,Secondary,Rural,1,No,Y,Yes,Yes,No,Yes
+CH0388,34,Female,Nakuru,Molo,Molo Highlands Health Centre,Primary,Urban ,Yes ,Yes,yes,Yes,Yes,Yes,No
+CH0389,19,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,1,Yes,1,Yes,No
+CH0390,15,Male,Machakos,Molo,Pinewood Dispensary,Primary,Rural,Yes,Yes,Yes ,Yes ,yes,Yes,NO
+CH0391,21,FEMALE,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,Yes,Yes,Yes,No,Yes,YES
+CH0392,26,Male,Machakos,Molo,Molo Highlands Health Centre,Primary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0393,15,Male,Kisumu,Nyando,Nyando Plains Health Centre,PRIMARY,Rural,Yes,yes,Yes,Yes,Yes,No,No
+CH0394,29,Male,Kisumu,Nyando,Riverbend Dispensary,Secondary,Rural,Yes,Yes,1,Yes,Yes,Yes,No
+CH0395,,Female,Kisumu,Nyando,Nyando Plains HC,Secondary,Rural,Yes,Yes,Yes,yes,Yes,No,No
+CH0396,32,Male,Nakuru,Molo,Pinewood Dispensary,Primary,Rural,Yes ,Yes,1,Yes,N,NO,Yes
+CH0397,23,Male,Nakuru,Molo,Pinewood Dispensary,Prim,Rural,Yes,Yes,Yes,yes,Yes,Yes,N
+CH0398,23,Femlae,Machakos,Machakos Town,Station Road Health Centre,Primary,URBAN,,Yes,Yes,Yes,Yes,Yes,No
+CH0399,22,Male,Machakos,Mwala,Mwala Rural Health Centre,Primary,Rural,1,1,Yes,Yes,Yes,Yes,NO
+CH0400,15,Male,Kisumu,Nyando,Nyando Plains Health Centre,primary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,NO
+CH0401,27,Female,Machakos,Mwala,Mwala Rural Health Centre,,Urban,Yes,Yes,Yes,Yes,No,yes,Yes
+CH0402,34,m,Kisumu,kisumu east,Lakeshore Health Centre,no formal education,urban,YES,YES,Yes,Yes,Yes,Yes,No
+CH0403,18,Female,Nakuru,Molo,Molo Highlands Health Centre,Secondary,Rural,Yes,Yes,Y,Yes,Yes,1,No
+CH0404,28 mths,f,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes ,Yes,Yes,No
+CH0405,17,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,YES,Yes,Yes,Yes,yes,No
+CH0406,35,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,No,Yes,Yes
+CH0407,13,Female,Kisumu,nyando ,Nyando Plains Health Centre,Prim,Rural,Yes,Yes,No,No,Yes,No,Yes
+CH0408,25,Female,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Y,Yes,Yes,Yes,Yes,NO
+CH0409,32,Female,Machakos,Machakos Town,Kyanda Dispensary,Primary,Rural,Yes,No,Yes,No,Yes,No,Yes
+CH0410,28,Male,Kisumu,Kisumu East,Market Road Dispensary,Secondary,Urban,Yes,Yes,0,No,Y,Yes,Yes
+CH0411,27,Male,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Rural,Yes,Yes,Yes,Yes,No,No,Yes
+CH0412,23,Female,Machakos,Mwala,Hilltop Dispensary,Primary,Rural,NO,Yes,No,No, No, No,Y
+CH0413,31,Male,Nakuru,MOLO,PINEWOOD DISPENSARY,Tertiary,Rural,Yes,Yes,Yes,yes,No,No,Y
+CH0414,17,Female,Nakuru,Nakuru Town,Eastlands Dispensary,PRIMARY,U,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+CH0415,28,Female,Machakos,Mwala,Hilltop Dispensary,Primary,Rural,Y,Yes,Yes ,No,No,Yes,Yes
+CH0416,25,Male,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,1,no,No,Yes,Yes,Yes
+CH0417,12,Male,KISUMU,Nyando,Nyando Plains Health Centre,Primary,Rural,Yes,Y,1,No,No,No,Yes
+CH0418,21 mths,f,Kisumu,Kisumu East,Lakeshore Health Centre,Primary,Rural,Yes,Yes,Yes,Yes,Yes,,No
+CH0419,17,Female,Machakos,Mwala,Hilltop Dispensary,None,Rural,Yes,Yes,Yes,Yes,YES,No,No
+CH0420,21,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Primary,Rural,YES,Yes,Yes,Yes,Yes,Yes,No
+CH0421,24,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,No,no,Yes
+CH0422,34,MALE,Kisumu,Kisumu East,Lakeshore Health Centre,Tertiary,URBAN,Yes,Yes,1,YES,Yes,No,No
+CH0423,17,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,Yes,Yes ,yes,Y,Yes,No
+CH0424,22,Female,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,No,YES,YES
+CH0425,15,Female,Machakos,Mwala,Hilltop Disp.,PRIMARY,Rural,Y,NO,Yes,Yes,No,No,Yes
+CH0426,15,F,Machakos,Machakos Town,kyanda dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,YES,Yes,No
+CH0427,31,Male,Machakos,Machakos Town,Station Road Health Centre,SECONDARY,Urban,Yes,Yes,No,Yes,Yes,Yes,NO
+CH0428,13,Male,Kisumu,Nyando,Riverbend Dispensary,Secondary,Rural,Yes,Yes,Y,1,No,Yes,YES
+CH0429,33,Female,Nakuru,Nakuru Town,Eastlands Disp,Tertiary,URBAN,Yes ,Yes,1,Yes,No,Yes,Yes
+CH0430,32,M,Nakuru,Nakuru Town,Eastlands Dispensary,Primary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0431,240,male,Machakos,Mwala,mwala rural health centre,Secondary,R,Yes,Yes,Yes,1,,NO,No
+CH0432,28,Female,Kisumu,Nyando,Riverbend Disp.,None,Rural,Yes,Yes,Yes,No,Yes,No,Yes
+CH0433,33,Female,Machakos,Mwala,HILLTOP DISPENSARY,Secondary,Rural,Yes,No,Yes,Yes,No,No,Yes
+CH0434,26,F,Nakuru County,Molo,Pinewood Disp.,Primary,Rural,Yes,YES,Yes,Yes,Yes,Yes,No
+CH0435,12,MALE,Nakuru,Molo,Molo Highlands Health Centre,None,RURAL,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0436,33,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban ,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH 0342,28,female,Machakos,Machakos Town,Station Road Health Centre,Secondary,Urban,Yes,1,Yes,Yes,DK,Yes,No
+CH0437,35,FEMALE,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,yes,No,No
+CH0438,33,Male,Nakuru,molo,Molo Highlands Health Centre,Secondary school,URBAN,Yes ,Yes,Yes,Yes,Yes,Yes,No
+CH0439,34,Male,Kisumu,Kisumu East,Market Road Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0440,16,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,Yes,Yes,Yes,yes,Yes,Yes,NO
+CH0441,12,F,Kisumu,Nyando,Nyando Plains Health Centre,Primary,Rural,YES,Yes,Yes,Yes,1,Yes,No
+CH0442,28,Female,Machakos,Mwala,HILLTOP DISPENSARY,primary,Rural,No,yes,Yes,Yes,No,No,Yes
+CH0443,23,Male,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,Yes,Yes ,Yes,Yes,Yes,1,yes
+CH0444,16,Male,Machakos,Machakos Town,Kyanda Dispensary,Secondary school,Rural,Yes,Yes,Yes,Y,Yes,Yes,No
+CH0445,12,Female,Machakos,Machakos town,Station Road Health Centre,College,Rural,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0446,35,Male,Machakos,Machakos Town,kyanda dispensary,Primary,Rural,Yes,Yes,Yes,Yes,Yes ,Yes,No
+CH0447,14,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,yes,Yes,Yes,Yes,1,No
+CH0448,29,Male,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,Yes,Yes,Yes,Yes,YES,No,No
+CH0449,32,Male,Machakos,Mwala,Hilltop Dispensary,Tertiary,Rural,Yes,Yes,Yes,Yes,No,Yes,Yes
+CH0450,29,Male,Nakuru,Molo,Pinewood Dispensary,Tertiary,Rural,Yes ,Yes,yes,Yes,Yes,Yes,No
+CH0451,30,Female,Machakos,Mwala,Hilltop Dispensary,PRIMARY,Urban,Yes,Yes,Yes,Yes,Yes ,N,No
+CH0452,21,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,YES,Yes,,Yes,Yes,Yes,no
+CH0453,13,Male,Nakuru,Molo,Pinewood Dispensary,Secondary,Rural ,Yes,Yes,Yes,,Yes,Yes,N
+CH0454,18,female,Kisumu,Nyando,Riverbend Dispensary,Tertiary,Rural,Yes,Yes,No,No,N,no,Yes
+ch0456,21,Male,Kisumu,Kisumu East,lakeshore health centre,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,
+CH0455,13 months,Male,Nakuru County,Nakuru Town,Eastlands Dispensary,Secondary,U,Yes,1,yes,Yes,Yes,Yes,No
+CH0456,21,Male,Kisumu,Kisumu East,lakeshore health centre,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,
+CH0457,23,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,YES,Yes,Yes,Yes,Yes,No
+CH0458,30,f,Machakos,Mwala,Mwala Rural Health Centre,Secondary,Rural,No,Yes,Yes,1,Yes,No,No
+CH0459,18,Female,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,yes,Yes ,Yes,yes,Yes,N
+CH0460,32,Male,Machakos,Mwala,Mwala Rural Health Centre,Tertiary,Rural,Yes,Yes,Yes,Yes,No,Yes ,Yes
+CH0461,17,Female,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,Yes,Yes,1,Yes,yes,Yes,No
+CH0462,24,Female,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,Yes ,Yes,Yes,Yes,Yes,Yes,No
+CH0463,12,Female,Kisumu,Nyando,Nyando Plains Health Centre,Secondary,Rural,Yes,Yes ,Yes,Yes,1,No,no
+CH0464,31,Femlae,Machakos,Mwala,Mwala Rural Health Centre,Primary,Rural,1,Yes,Yes,Yes ,Yes,YES,No
+CH0465,24,Male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,yes,Yes,Yes,,Yes ,Yes,Yes
+CH 0466,23,Male,Kisumu,Nyando,Riverbend Dispensary,Primary,Rural,Yes,Yes,Yes,No,No,Yes,Yes
+CH0467,26,Female,Nakuru,Molo,Pinewood Dispensary,Primary,Rural,Yes,yes,Yes,Yes,yes,Yes,No
+CH0468,17,FEMALE,Nakuru,Molo,Pinewood Dispensary,Prim,Urban,Yes,Yes,Yes,Yes,No,Yes,Yes
+CH0469,35,Femlae,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary ,Urban,Yes,Yes,Yes,Yes,No,Yes,Yes
+CH0470,14,FEMALE,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,Yes,Yes,Yes,Yes,Yes,No
+CH0471,20,Female,Machakos,Mwala,Mwala Rural Health Centre,Secondary,Rural,Yes,Yes,Yes,Yes,Y,Yes,No
+CH0472,15,Male,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,Yes,Yes,No,Yes,,Yes
+CH0473,32,Male,Kisumu,Kisumu East,Lakeshore Health Centre,None,Urban,Yes,YES,Y,No,Yes ,No,Yes
+CH0474,16,Male,Nakuru,Nakuru Town,Eastlands Dispensary,Secondary,Urban,1,Yes,Yes,Y,Yes,yes,
+CH0475,28,Female,Nakuru,Molo,Molo Highlands Health Centre,Primary,Rural,Yes,Yes,Yes,Yes,No,No,Yes
+CH0476,21,Female,Kisumu,Kisumu East,Market Road Dispensary,none,Rural,Yes,Yes,no,1,Yes,Yes,No
+CH0477,13,Male,Kisumu,Kisumu East,Lakeshore Health Centre,Secondary,Urban,Yes,yes,Yes,Yes,Yes,Yes,No
+CH0478,30,Male,Machakos,Machakos Town,Kyanda Dispensary,Secondary,RURAL,YES,Yes,Yes,Yes,Yes,Yes,No
+CH0479,27,Male,Machakos,Machakos Town,Station Road Health Centre,Secondary,Rural,Yes ,Yes,Yes,No,Yes ,Yes,Yes
+CH0480,25,Male,Machakos,Machakos Town,Station Road Health Centre,Primary,Urban,Yes,Yes,yes,Yes,Yes,Yes,No
+CH0481,28,Female,Machakos ,Machakos Town,Kyanda Dispensary,Primary,Rural,yes,Yes,Yes,Yes,Yes,Yes,No
+CH0482,-5,Female,Kisumu,Kisumu East,Market Road Dispensary,Primary,Rural,Yes,Yes,Yes,No,Yes,No,Yes
+CH0483,29,Female,Kisumu,Nyando,Riverbend Disp.,Secondary,Rural,Yes,Yes,Yes,Yes,No,No,yes
+CH0484,22,Male,Machakos,Machakos Town,Station Road Health Centre,Tertiary,Urban,1,Yes,YES,Y,Yes,Yes,yes
+CH0485,25,Male,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary,Urban,Yes,Yes,Y,Yes,Yes,Yes,No
+CH0486,25,M,Kisumu,Kisumu East,Lakeshore Health Centre,Primary,Urban,Yes,Yes,Yes,1,Yes,Yes,No
+CH0487,12,male,Machakos ,Machakos Town,Station Road Health Centre,,Urban,Yes ,Yes,Yes,Yes,No,No,Yes
+CH0488,13,Female,Machakos,Machakos Town,Station Road Health Centre,Sec.,Urban ,Yes,Yes,Yes,Yes,1,Yes,N
+CH0489,12,Female,Kisumu,Kisumu East,Market Road Dispensary,University,Urban,Yes,YES,Yes ,yes,Yes,NO,No
+CH0490,18,Female,Kisumu,Kisumu East,Lakeshore Health Centre,secondary,Urban,Yes,YES,Yes,Yes,No,Yes,Yes
+CH0491,35,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,Y,Yes,No
+CH0492,31,Male,Nakuru,Nakuru Town,Town Square Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes ,Yes,No
+CH0493,30,M,Machakos,Machakos Town,Station Road Health Centre,Tertiary,Urban,Yes,Yes,Yes,Yes,Yes,No,No
+CH0494,21,F,Kisumu,Nyando,nyando plains health centre,Primary,Rural,Yes,Yes,Yes,Yes,1,Yes,No
+CH0495,26,Female,Machakos,Machakos Town,Kyanda Dispensary,Secondary,Rural,Yes,Yes,Yes,Yes,Yes,Yes,NO
+CH0496,25,male,Nakuru,Nakuru Town,Town Square Health Centre,Secondary,Urban,1,Yes,Yes,Yes,yes,No,No
+CH0497,18,FEMALE,Kisumu,Kisumu East,Market Road Dispensary,Primary,Urban,Yes ,Yes,Yes,Yes,Yes,yes,No
+CH0498,16,Female,Kisumu,Kisumu East,Lakeshore Health Centre,SECONDARY,Urban,No,1,Yes,Yes,1,Yes,Y
+CH0499,15,Male,Nakuru,Nakuru Town,Town Square HC,Tertiary ,Urb,Yes,Yes,Yes,Yes,Yes,Yes,NO
+CH0500,14,Female,Nakuru,Nakuru Town,Town Square Health Centre,Primary,Rural ,Yes,Yes,Yes,Yes,Yes,Yes,No
